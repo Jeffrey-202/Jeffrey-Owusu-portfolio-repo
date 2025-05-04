@@ -1,43 +1,34 @@
-<<<<<<< HEAD
-# sv
+Jeffrey Owusu - C00314408 
+submission date 04 / 05 / 2025
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npx sv create
 
-# create a new project in my-app
-npx sv create my-app
-```
 
-## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-```bash
-npm run dev
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+REFERENCES
 
-To create a production version of your app:
+Animations 
+svelte animate https://svelte.dev/docs/svelte/svelte-animate
+animate css https://animate.style/
 
-```bash
-npm run build
-```
 
-You can preview the production build with `npm run preview`.
+https://youtu.be/zJOj4ZC_Yrw?si=FQYV7kQazPICTqH_
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-=======
-# Jeffrey-Owusu-portfolio-repo
-portfolio website
->>>>>>> 4721d43193cd52df0515b0a698ec6a5b1acfba98
+Clickable drop down
+https://www.w3schools.com/howto/howto_js_dropdown.asp
+
+image gallery 
+https://www.w3schools.com/css/css_image_gallery.asp
+
+gradient
+https://www.w3schools.com/css/css3_gradients.asp
+
+font
+https://fonts.google.com/specimen/Audiowide
+
+
